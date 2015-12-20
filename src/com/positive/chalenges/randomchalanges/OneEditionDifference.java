@@ -1,4 +1,4 @@
-package com.positive.randomchalanges;
+package com.positive.chalenges.randomchalanges;
 
 /**
  * Created by mykola on 13.05.15.

@@ -1,4 +1,4 @@
-package com.positive.codeeval;
+package com.positive.chalenges.codeeval;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,6 +1,6 @@
-package com.positive.randomchalanges;
+package com.positive.chalenges.randomchalanges;
 
-import com.positive.randomchalanges.PrintBinaryTree.TreeNode;
+import com.positive.chalenges.randomchalanges.PrintBinaryTree.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

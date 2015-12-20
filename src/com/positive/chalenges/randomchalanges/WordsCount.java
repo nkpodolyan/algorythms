@@ -1,4 +1,4 @@
-package com.positive.randomchalanges;
+package com.positive.chalenges.randomchalanges;
 
 import java.util.Scanner;
 

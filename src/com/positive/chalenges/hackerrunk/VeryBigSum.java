@@ -1,4 +1,4 @@
-package com.positive.hackerrunk;
+package com.positive.chalenges.hackerrunk;
 
 import java.util.Scanner;
 
